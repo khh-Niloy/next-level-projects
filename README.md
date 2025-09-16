@@ -18,7 +18,7 @@ Node.js, Express.js, MongoDB (Mongoose), JWT, bcrypt, Zod, Custom Middleware, co
 
 
 ## Project Preview
-![Parcel Delivery API Preview](image-link-here)
+![Parcel Delivery API Preview](images/parcel.png)
 
 ---
 
