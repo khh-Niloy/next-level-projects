@@ -22,6 +22,24 @@ Node.js, Express.js, MongoDB (Mongoose), JWT, bcrypt, Zod, Custom Middleware, co
 
 ---
 
+# 📦 Parcel Delivery System Frontend
+
+## 🛠️ Tech Used  
+React, TypeScript, Redux Toolkit (RTK Query), React Router, Axios, Tailwind CSS, React Hook Form, Zod, React Leaflet
+
+## 🌐 Links
+
+| Section       | Link                                                                 |
+|---------------|----------------------------------------------------------------------|
+| **Live Demo** | [Project Live Link](#)                                               |
+| **Repo**      | [Parcel Delivery System Frontend](https://github.com/khh-Niloy/parcel-delivery-system-frontend) |
+
+
+## Project Preview
+![Parcel Delivery API Preview](images/parcel-front.png)
+
+---
+
 # 🏕️ Tour management backend
 
 Tour Management System Backend API built with Node.js, Express, and TypeScript. It provides authentication, role-based access control, tour and division management, booking and payment via SSLCommerz (sandbox), OTP flows, and analytics-ready endpoints. MongoDB with Mongoose is used for data persistence, and the service is structured with modular routes and strong validation and error handling.
